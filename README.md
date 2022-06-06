@@ -1,1 +1,1 @@
-# virtual-internship
+# Data Science Virtual Internship
